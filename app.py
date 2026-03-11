@@ -50,7 +50,7 @@ df = pd.concat([df, my_books], ignore_index=True)
 
 # -------- APP INTERFACE --------
 
-st.title("📚 City_Prof Educational Foundation Library")
+st.title("📚 City_Profs Educational Foundation E-Library")
 
 search_option = st.radio(
 "Choose how to find books:",
